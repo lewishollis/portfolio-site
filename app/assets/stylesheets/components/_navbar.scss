@@ -1,12 +1,10 @@
-.navbar-lewagon {
-  justify-content: space-between;
-  background: white;
-}
-
-.navbar-lewagon .navbar-collapse {
-  flex-grow: 0;
-}
-
-.navbar-lewagon .navbar-brand img {
-  width: 40px;
+.name {
+  display: flex;
+  flex-direction: column;
+  writing-mode: vertical-rl; /* Vertical writing mode */
+  text-align: center;
+  font-size: 100px;
+  height: 100%;
+  padding: 20px;
+  transform: rotate(180deg);
 }
