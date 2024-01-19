@@ -1507,3 +1507,389 @@ Processing by PagesController#home as HTML
 Completed 200 OK in 44ms (Views: 43.1ms | ActiveRecord: 0.0ms | Allocations: 11052)
 
 
+Started GET "/" for ::1 at 2024-01-19 14:11:39 +0000
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.5ms | Allocations: 342)
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 111)
+  Rendered shared/_flashes.html.erb (Duration: 0.4ms | Allocations: 226)
+  Rendered layout layouts/application.html.erb (Duration: 93.1ms | Allocations: 58201)
+Completed 200 OK in 100ms (Views: 94.8ms | ActiveRecord: 0.0ms | Allocations: 62573)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:13:01 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.8ms | Allocations: 577)
+  Rendered shared/_navbar.html.erb (Duration: 0.5ms | Allocations: 100)
+  Rendered shared/_flashes.html.erb (Duration: 0.5ms | Allocations: 207)
+  Rendered layout layouts/application.html.erb (Duration: 15.8ms | Allocations: 10492)
+Completed 200 OK in 19ms (Views: 17.9ms | ActiveRecord: 0.0ms | Allocations: 11449)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:15:20 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 17.4ms | Allocations: 9066)
+Completed 200 OK in 18ms (Views: 18.0ms | ActiveRecord: 0.0ms | Allocations: 9329)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:15:23 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.1ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 17.1ms | Allocations: 9074)
+Completed 200 OK in 18ms (Views: 17.7ms | ActiveRecord: 0.0ms | Allocations: 9316)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:15:34 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 18.6ms | Allocations: 9057)
+Completed 200 OK in 21ms (Views: 20.2ms | ActiveRecord: 0.0ms | Allocations: 9302)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:16:02 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.6ms | Allocations: 577)
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 103)
+  Rendered shared/_flashes.html.erb (Duration: 0.5ms | Allocations: 207)
+  Rendered layout layouts/application.html.erb (Duration: 35.8ms | Allocations: 10507)
+Completed 200 OK in 44ms (Views: 38.7ms | ActiveRecord: 0.0ms | Allocations: 11414)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:16:09 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.5ms | Allocations: 576)
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 100)
+  Rendered shared/_flashes.html.erb (Duration: 0.8ms | Allocations: 207)
+  Rendered layout layouts/application.html.erb (Duration: 17.7ms | Allocations: 10504)
+Completed 200 OK in 22ms (Views: 20.7ms | ActiveRecord: 0.0ms | Allocations: 11429)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:17:15 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 9.7ms | Allocations: 9061)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms | Allocations: 9323)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:18:16 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 4640.7ms | Allocations: 78415)
+Completed 200 OK in 4642ms (Views: 4641.7ms | ActiveRecord: 0.0ms | Allocations: 78657)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:19:40 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.9ms | Allocations: 584)
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 100)
+  Rendered shared/_flashes.html.erb (Duration: 0.5ms | Allocations: 207)
+  Rendered layout layouts/application.html.erb (Duration: 14.1ms | Allocations: 10512)
+Completed 200 OK in 17ms (Views: 16.2ms | ActiveRecord: 0.0ms | Allocations: 11419)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:20:18 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.1ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 18.3ms | Allocations: 9042)
+Completed 200 OK in 20ms (Views: 19.1ms | ActiveRecord: 0.0ms | Allocations: 9301)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:26:53 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.1ms | Allocations: 579)
+  Rendered shared/_navbar.html.erb (Duration: 0.5ms | Allocations: 105)
+  Rendered shared/_flashes.html.erb (Duration: 0.4ms | Allocations: 207)
+  Rendered layout layouts/application.html.erb (Duration: 4421.8ms | Allocations: 79509)
+Completed 200 OK in 4425ms (Views: 4424.2ms | ActiveRecord: 0.0ms | Allocations: 80414)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:28:19 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 16.2ms | Allocations: 9057)
+Completed 200 OK in 17ms (Views: 16.8ms | ActiveRecord: 0.0ms | Allocations: 9316)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:29:18 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.2ms | Allocations: 578)
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 100)
+  Rendered shared/_flashes.html.erb (Duration: 0.7ms | Allocations: 207)
+  Rendered layout layouts/application.html.erb (Duration: 18.4ms | Allocations: 10485)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms | Allocations: 11391)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:29:32 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.0ms | Allocations: 578)
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 100)
+  Rendered shared/_flashes.html.erb (Duration: 3.6ms | Allocations: 207)
+  Rendered layout layouts/application.html.erb (Duration: 53.5ms | Allocations: 10503)
+Completed 200 OK in 57ms (Views: 55.8ms | ActiveRecord: 0.0ms | Allocations: 11425)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:30:33 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.9ms | Allocations: 582)
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 100)
+  Rendered shared/_flashes.html.erb (Duration: 0.2ms | Allocations: 207)
+  Rendered layout layouts/application.html.erb (Duration: 13.1ms | Allocations: 10515)
+Completed 200 OK in 17ms (Views: 15.8ms | ActiveRecord: 0.0ms | Allocations: 11439)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:30:35 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 18.6ms | Allocations: 9066)
+Completed 200 OK in 20ms (Views: 19.2ms | ActiveRecord: 0.0ms | Allocations: 9326)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:30:43 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.1ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.5ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 17.6ms | Allocations: 9072)
+Completed 200 OK in 19ms (Views: 18.2ms | ActiveRecord: 0.0ms | Allocations: 9315)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:31:18 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 4416.7ms | Allocations: 78041)
+Completed 200 OK in 4418ms (Views: 4417.6ms | ActiveRecord: 0.0ms | Allocations: 78283)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:31:31 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 4394.8ms | Allocations: 77817)
+Completed 200 OK in 4396ms (Views: 4395.5ms | ActiveRecord: 0.0ms | Allocations: 78059)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:32:59 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.2ms | Allocations: 583)
+  Rendered shared/_navbar.html.erb (Duration: 0.5ms | Allocations: 100)
+  Rendered shared/_flashes.html.erb (Duration: 0.6ms | Allocations: 207)
+  Rendered layout layouts/application.html.erb (Duration: 13.8ms | Allocations: 10511)
+Completed 200 OK in 18ms (Views: 16.4ms | ActiveRecord: 0.0ms | Allocations: 11417)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:34:13 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 4426.1ms | Allocations: 78052)
+Completed 200 OK in 4427ms (Views: 4426.6ms | ActiveRecord: 0.0ms | Allocations: 78311)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:35:29 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 4431.5ms | Allocations: 77848)
+Completed 200 OK in 4433ms (Views: 4432.2ms | ActiveRecord: 0.0ms | Allocations: 78090)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:36:22 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.1ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 18.5ms | Allocations: 9069)
+Completed 200 OK in 20ms (Views: 19.3ms | ActiveRecord: 0.0ms | Allocations: 9311)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:36:27 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 17.9ms | Allocations: 9066)
+Completed 200 OK in 19ms (Views: 18.5ms | ActiveRecord: 0.0ms | Allocations: 9308)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:37:02 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 13.4ms | Allocations: 9051)
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms | Allocations: 9293)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:37:07 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.1ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 13.6ms | Allocations: 9051)
+Completed 200 OK in 14ms (Views: 14.1ms | ActiveRecord: 0.0ms | Allocations: 9293)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:37:19 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 4419.2ms | Allocations: 77851)
+Completed 200 OK in 4420ms (Views: 4419.7ms | ActiveRecord: 0.0ms | Allocations: 78093)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:37:29 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 4407.3ms | Allocations: 77895)
+Completed 200 OK in 4408ms (Views: 4408.0ms | ActiveRecord: 0.0ms | Allocations: 78137)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:37:53 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 4395.4ms | Allocations: 77836)
+Completed 200 OK in 4396ms (Views: 4396.0ms | ActiveRecord: 0.0ms | Allocations: 78078)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:38:51 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.1ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 19.4ms | Allocations: 9046)
+Completed 200 OK in 21ms (Views: 20.6ms | ActiveRecord: 0.0ms | Allocations: 9288)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:39:12 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 4407.6ms | Allocations: 77853)
+Completed 200 OK in 4408ms (Views: 4408.1ms | ActiveRecord: 0.0ms | Allocations: 78095)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:39:23 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.1ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.1ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 20.5ms | Allocations: 9092)
+Completed 200 OK in 22ms (Views: 21.2ms | ActiveRecord: 0.0ms | Allocations: 9335)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:40:42 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.9ms | Allocations: 583)
+  Rendered shared/_navbar.html.erb (Duration: 0.9ms | Allocations: 100)
+  Rendered shared/_flashes.html.erb (Duration: 0.8ms | Allocations: 207)
+  Rendered layout layouts/application.html.erb (Duration: 20.3ms | Allocations: 10515)
+Completed 200 OK in 25ms (Views: 23.5ms | ActiveRecord: 0.0ms | Allocations: 11421)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:44:00 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 9)
+  Rendered shared/_flashes.html.erb (Duration: 0.0ms | Allocations: 24)
+  Rendered layout layouts/application.html.erb (Duration: 12.4ms | Allocations: 9049)
+Completed 200 OK in 13ms (Views: 13.0ms | ActiveRecord: 0.0ms | Allocations: 9308)
+
+
