@@ -13,21 +13,21 @@
   background-image: url('Screenshot 2024-01-18 at 20.55.39.png');
   background-size: cover;
   background-position: center;
-  transition: transform 0.3s ease; /* Adding a smooth transition effect */
+  transition: transform 0.3s ease;
 }
 
 .image-1:hover {
-  transform: scale(1.1); /* Making it 10% larger on hover */
-  cursor: pointer; /* Changing the cursor to a pointer */
+  transform: scale(1.1);
+  cursor: pointer;
 }
 
-/* Optional: Add styles for when the image is clicked */
 .image-1:active {
-  transform: scale(1.2); /* Additional scaling on click */
+  transform: scale(1.2);
 }
 
 .canvas {
-  display: block; /* Use block display to take up 100% width */
+  margin-left: 25px;
+  display: block;
   width: 100%;
   height: 100%;
 }

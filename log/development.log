@@ -1893,3 +1893,26 @@ Processing by PagesController#home as HTML
 Completed 200 OK in 13ms (Views: 13.0ms | ActiveRecord: 0.0ms | Allocations: 9308)
 
 
+Started GET "/" for ::1 at 2024-01-19 14:46:12 +0000
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.8ms | Allocations: 788)
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 113)
+  Rendered shared/_flashes.html.erb (Duration: 0.3ms | Allocations: 226)
+  Rendered layout layouts/application.html.erb (Duration: 4648.7ms | Allocations: 126540)
+Completed 200 OK in 4656ms (Views: 4650.5ms | ActiveRecord: 0.0ms | Allocations: 130912)
+
+
+Started GET "/" for ::1 at 2024-01-19 14:47:14 +0000
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 9)
+  Rendered shared/_navbar.html.erb (Duration: 0.0ms | Allocations: 10)
+  Rendered shared/_flashes.html.erb (Duration: 0.1ms | Allocations: 30)
+  Rendered layout layouts/application.html.erb (Duration: 4412.4ms | Allocations: 78125)
+Completed 200 OK in 4413ms (Views: 4413.0ms | ActiveRecord: 0.0ms | Allocations: 78424)
+
+
