@@ -2,7 +2,8 @@
 // Run that command whenever you add a new controller or create them with
 // ./bin/rails generate stimulus controllerName
 
+// app/javascript/controllers/index.js
 import { application } from "./application"
+import PongGameController from "./pong_game_controller"
 
-import HelloController from "./hello_controller"
-application.register("hello", HelloController)
+application.register("pong-game", PongGameController)

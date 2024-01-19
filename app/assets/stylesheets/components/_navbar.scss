@@ -1,10 +1,8 @@
 .name {
   display: flex;
-  flex-direction: column;
-  writing-mode: vertical-rl; /* Vertical writing mode */
+  justify-content: center;
   text-align: center;
   font-size: 100px;
   height: 100%;
   padding: 20px;
-  transform: rotate(180deg);
 }

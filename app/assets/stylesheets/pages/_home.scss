@@ -1,1 +1,26 @@
 // Specific CSS for your home-page
+.home-container {
+  display: flex;
+  margin-left: 10%;
+}
+
+.image-1 {
+  display: flex;
+  flex: 1;
+  width: 600px;
+  height: 500px;
+  background-image: url('Screenshot 2024-01-18 at 20.55.39.png');
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.3s ease; /* Adding a smooth transition effect */
+}
+
+.image-1:hover {
+  transform: scale(1.1); /* Making it 10% larger on hover */
+  cursor: pointer; /* Changing the cursor to a pointer */
+}
+
+/* Optional: Add styles for when the image is clicked */
+.image-1:active {
+  transform: scale(1.2); /* Additional scaling on click */
+}
